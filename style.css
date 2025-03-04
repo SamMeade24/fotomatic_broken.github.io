@@ -107,7 +107,7 @@ header .mobile {
   }
 
   header .logo {
-    padding-left: 1.5rem;
+    display: none'
   }
 
   header .mobile ul {
